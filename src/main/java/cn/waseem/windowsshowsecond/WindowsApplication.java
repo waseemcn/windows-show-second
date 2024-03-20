@@ -5,7 +5,7 @@ import javafx.stage.Stage;
 
 public class WindowsApplication extends Application {
     @Override
-    public void start(Stage primaryStage) throws Exception {
+    public void start(Stage primaryStage) {
         // 创建窗口构建类的实例
         WindowBuilder windowBuilder = new WindowBuilder();
 
