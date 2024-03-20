@@ -27,3 +27,5 @@ Stability: Early adopter
 - `src/` 目录存放项目的源代码，分为 `main/` 和 `test/`，分别用于存放主要代码和测试代码。
 - `show.bat` 文件是显示秒数的主要脚本。
 - `hide.bat` 文件是隐藏秒数的主要脚本。
+
+![1710919845828](https://github.com/waseemcn/windows-show-second/assets/44390023/9054c29a-d026-4ebc-890c-b1fa1704ceb0)
